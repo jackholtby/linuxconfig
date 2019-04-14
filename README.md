@@ -7,6 +7,7 @@ A web server to serve the item catalogue which can be found here: https://github
 The web server runs at:
 IP address: http://13.250.54.196
 URL: http://13.250.54.196/category
+SSH Port: 2200
 
 ## Software installed:
 apache2
